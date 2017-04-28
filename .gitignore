@@ -2,3 +2,5 @@
 .idea
 target
 public
+node_modules
+db.json
