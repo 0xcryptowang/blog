@@ -4,3 +4,5 @@ target
 public
 node_modules
 db.json
+.deploy_git
+*.log
